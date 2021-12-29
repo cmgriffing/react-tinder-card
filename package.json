@@ -23,7 +23,8 @@
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0",
     "react-dom": "^16.0.0 || ^17.0.0",
-    "react-spring": "^8.0.0"
+    "react-spring": "^9.3.3",
+    "@react-spring/native": "^9.3.2"
   },
   "peerDependenciesMeta": {
     "react-spring": {
